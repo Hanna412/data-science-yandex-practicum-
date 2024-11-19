@@ -6,7 +6,9 @@ Repository contains my projects for Data Science course of Yandex.Practicum
 <h1 align="center" tabindex="-1" class="heading-element" dir="auto">
   &nbsp;Portfolio of projects for Data Science course of Yandex.Practicum&nbsp;
 </h1>
-| Обозначение | Описание | Пример регулярного выражения|
-|----:|:----:|:----------|
-| literal | Строка содержит символьный литерал literal | foo |
-| re1&#124;re2 | Строка содержит регулярные выражения `rel` или `re2` | foo&#124;bar |
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
