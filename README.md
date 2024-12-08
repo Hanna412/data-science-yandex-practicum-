@@ -8,5 +8,5 @@ Repository contains my projects for Data Science course of Yandex.Practicum
 
 |   Project	  | Description	| Used libraries  | 
 | ------------- | ------------- | ------------- |
-| [Musical preferences of big cities] (https://github.com/Hanna412/data-science-yandex-practicum-/tree/main/01_yandex_music)| Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.  | Python, Pandas, Numpy  |
+| [Musical preferences of big cities](https://github.com/Hanna412/data-science-yandex-practicum-/tree/main/01_yandex_music)| Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.  | Python, Pandas, Numpy  |
 
