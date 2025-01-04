@@ -8,5 +8,6 @@ Repository contains my projects for Data Science course of Yandex.Practicum
 
 |   Project	  | Description	| Used libraries  | 
 | ------------- | ------------- | ------------- |
-| [Musical preferences of big cities](https://github.com/Hanna412/data-science-yandex-practicum-/tree/main/01_yandex_music)| Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.  | Python, Pandas, Numpy  |
-
+| [Musical preferences of big cities](https://github.com/Hanna412/data-science-yandex-practicum-/tree/main/01_yandex_music)| Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.  | Python, Pandas  |
+| [Borrowers' reliability research](https://github.com/Hanna412/data-science-yandex-practicum-/tree/main/02_borrowers'_reliability)| Data of the bank's credit department. It is necessary to find out whether the marital status and the number of children of the client affect the repayment of the loan on time. The input data from the bank is statistics on the solvency of customers.
+The results of the study will be taken into account when building a credit scoring model, a special system that evaluates a potential borrower's ability to repay a loan to a bank.  | Python, Pandas  |
